@@ -6,8 +6,8 @@
 
 
 https://github.com/anuraghazra/github-readme-stats <br /><br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-tpghks23&show_icons=true&theme=transparent) <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-tpghks23&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkyong00&show_icons=true&theme=transparent) <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyong00&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <br /><br />
 https://hits.seeyoufarm.com/<br /><br />
